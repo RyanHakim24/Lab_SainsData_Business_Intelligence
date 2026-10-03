@@ -12,7 +12,7 @@
 
 <p>
 Repository resmi untuk kegiatan <strong>Praktikum Business Intelligence</strong><br/>
-Program Studi S1 Sains Data — Tahun Akademik 2025/2026
+Program Studi S1 Sains Data — Tahun Akademik 2026/2027
 </p>
 
 <img src="https://admisi.ikopin.ac.id/assets/images/logo.png" width="300"/>
