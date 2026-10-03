@@ -37,7 +37,7 @@ Praktikum Business Intelligence dirancang untuk memberikan pengalaman **hands-on
 
 | Peran | Nama | Kontak |
 |-------|------|--------|
-| Dosen Pengampu | Mohammad Fahreza, S.E., M.Ti. | - |
+| Dosen Pengampu | Mohammad Fahreza, S.E., M.B.A | - |
 | Asisten Laboratorium | Ryan F. F. Hakim, S.Si.D | - |
 
 ---
