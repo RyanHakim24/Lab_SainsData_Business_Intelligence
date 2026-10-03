@@ -27,7 +27,7 @@ Program Studi S1 Sains Data — Tahun Akademik 2026/2027
 
 Praktikum Business Intelligence dirancang untuk memberikan pengalaman **hands-on** dalam mengolah data menjadi informasi yang mendukung pengambilan keputusan. Mahasiswa akan mempelajari proses pengumpulan, pembersihan, transformasi, pemodelan, analisis, dan visualisasi data menggunakan SQL, spreadsheet, Python, serta perangkat Business Intelligence.
 
-> **Mata Kuliah:** Business Intelligence (kode mata kuliah menyesuaikan)  
+> **Mata Kuliah:** Business Intelligence  
 > **SKS Praktikum:** 1 SKS  
 > **Prasyarat:** Pengantar Basis Data, Statistika, dan dasar penggunaan spreadsheet
 
